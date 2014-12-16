@@ -1,0 +1,3 @@
+class GameScene < SKScene
+
+end
